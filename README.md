@@ -1,6 +1,5 @@
 ***
 
-```markdown
 # VERACITY AI: Fake News Detection Framework
 
 ![Version](https://img.shields.io/badge/version-v1.0.2-darkred)
