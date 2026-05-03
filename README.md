@@ -74,7 +74,6 @@ Follow these instructions to set up the project locally on your machine.
 ## 📝 License
 
 This project is for educational and portfolio purposes. 
-```
 
 ***
 
